@@ -1,2 +1,5 @@
-# TestGitHub
-github tutorial
+TestGitHub
+===========
+
+TestGitHub is a repository
+use function..etc.
