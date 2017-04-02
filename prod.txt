@@ -8,15 +8,9 @@ hope u will beleave our eforts towards project.
 
 adding more sentences because i can't understand the concept clearly.
 adding some chetabetatata for bambling only let's see the result
-<<<<<<< HEAD
 HAHAHHHHH...=====wowwwwww!
 
 ##########starting this paragraph for designing purpose only.so,you have to maintain
 proper designing rules to prepare the the document,bcz customer's involvement
-=======
-hahahahhhh....!
-
-starting this paragraph for designing purpose only.so,you have to maintain
-*************proper designing rules to prepare the the document,bcz customer's involvement
->>>>>>> develop
+develop
 is most importent,kep it in mind ok,all the best.
