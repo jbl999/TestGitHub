@@ -1,4 +1,11 @@
 this is the sentence for deleted item
 hi this for test onlty
 this is second sentence
+<<<<<<< HEAD
 this is the third sentence for update 
+=======
+
+this is the third sentence for update.
+
+for cheking the lenes adjusted properly or not. 
+>>>>>>> develop

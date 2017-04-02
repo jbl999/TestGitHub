@@ -2,3 +2,5 @@ this is created for testing purpose only,check it.
 adding another sentence for same purpose only.
 
 now going to add set of sentences for same purpose only.
+
+changes has been done in while loop for item discout.
