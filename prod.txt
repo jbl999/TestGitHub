@@ -1,3 +1,6 @@
-the sences updated in develop master because the code source 
-has to span with diff. branches,after that ony have to merge 
+the sences updated in develop master because the code source
+has to span with diff. branches,after that ony have to merge
 with master branch
+code started on april 2,2017 onwards only
+have to take some more days to complete the projject
+hope u will beleave our eforts towards project.
