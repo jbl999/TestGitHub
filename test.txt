@@ -9,13 +9,19 @@ now i updated the code once test it
 waiting for ur response.
 tested succesfully.
 
-<<<<<<< HEAD
-
 expect good design for the web site.
 
 nice one.
-=======
+
+// by develop
+send me the new file details
+// by git admin
+i can,t understand comm. between dev. and feature
+
+//by feature
+
 want any feed back
 
+//by feature
 i did't get the reply
->>>>>>> feature/a-new-feature
+feature/a-new-feature
