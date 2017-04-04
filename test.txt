@@ -9,7 +9,13 @@ now i updated the code once test it
 waiting for ur response.
 tested succesfully.
 
+<<<<<<< HEAD
 
 expect good design for the web site.
 
 nice one.
+=======
+want any feed back
+
+i did't get the reply
+>>>>>>> feature/a-new-feature
