@@ -19,7 +19,7 @@ fi
 
 #only user root only create the user to check that
 WHOAMI=`/usr/bin/whoami`
-if [ ! $WHOAMI == root ] ; then
+if [ $WHOAMI != root ] ; then
   echo "you must be a root user"
   exit
 fi
