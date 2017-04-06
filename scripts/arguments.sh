@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "Please Enter your marks"
+MARKS=$1
 
-read MARKS
 if [ $MARKS -ge 65 ] ; then
 	echo "First Class"
 elif [ $MARKS -ge 55 ] ; then
