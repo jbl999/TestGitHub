@@ -10,5 +10,5 @@ elif [ $MARKS -ge 55 ] ; then
 elif [ $MARKS -ge 45 ] ; then
 	echo "Third Class"
 else
-	echo "Work more than before"
+	echo "Sorry,Work more than before"
 fi
