@@ -44,7 +44,7 @@ fi
 
 #move the password to bin (password folder)
 
-echo "$MYPASS" | /usr/bin/passwd --stdin $MYUSER"
+echo "$MYPASS" | /usr/bin/passwd --STDIN $MYUSER"
 if [ $? -ne 0 ] ; then
   echo "problem setting the password for the user $MYUSER"
   exit
