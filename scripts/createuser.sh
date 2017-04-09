@@ -25,7 +25,7 @@ if [ $WHOAMI != root ] ; then
 fi
 
 #to check the user you already exist or not
-/usr/sbin/id $MYUSER
+/usr/bin/id $MYUSER
 
 
 #here $? is a special character which returns 0 when command is true
@@ -36,7 +36,7 @@ if [ $? -eq 0 ] ; then
 fi
 
 #adding the user to the bin(user folder)
-/usr/bin/useradd $MYUSER
+/usr/sbin/useradd $MYUSER
 if [ $? -ne 0 ] ; then
   echo "we have a big problem to create the user $MYUSER"
   exit
