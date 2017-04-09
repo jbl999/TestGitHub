@@ -25,7 +25,7 @@ if [ $WHOAMI != root ] ; then
 fi
 
 #to check the user you already exist or not
-/usr/bin/id $MYUSER
+/usr/sbin/id $MYUSER
 
 
 #here $? is a special character which returns 0 when command is true
